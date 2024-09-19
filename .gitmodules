@@ -1,0 +1,12 @@
+[submodule "SGG_HOI_Tutorial_SIBGRAPI2024"]
+	path = human_object_interaction
+	url = https://github.com/camilalaranjeira/SGG_HOI_Tutorial_SIBGRAPI2024.git
+[submodule "SGG_Tutorial_SIBGRAPI2024"]
+	path = scene_graph_generation
+	url = https://github.com/carloscaetano/SGG_Tutorial_SIBGRAPI2024.git
+[submodule "SGDiff"]
+	path = image_generation
+	url = https://github.com/leosampaio/SGDiff.git
+[submodule "Sub-GC"]
+	path = image_captioning
+	url = https://github.com/gabrielsantosrv/Sub-GC.git
