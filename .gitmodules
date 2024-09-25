@@ -10,3 +10,6 @@
 [submodule "Sub-GC"]
 	path = image_captioning
 	url = https://github.com/gabrielsantosrv/Sub-GC.git
+[submodule "SEMScene"]
+	path = image_retrieval
+	url = https://github.com/leosampaio/SEMScene.git
