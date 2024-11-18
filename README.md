@@ -1,6 +1,6 @@
 # Mastering Scene Understanding: Scene Graphs to the Rescue - SIBGRAPI 2024 Tutorial
 
-This is the official repository for the SIBGRAPI 2024 Tutorial *Mastering Scene Understanding: Scene Graphs to the Rescue*.
+This is the official repository for the SIBGRAPI 2024 Tutorial [*Mastering Scene Understanding: Scene Graphs to the Rescue*](https://ieeexplore.ieee.org/document/10716310).
 
 ## Notebooks implemented as tutorials
 
